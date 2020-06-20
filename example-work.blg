@@ -1,0 +1,69 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: example-work.aux
+The style file: gost780uv.bst
+Database file #1: thesis.bib
+Repeated entry---line 179 of file thesis.bib
+ : @book{hastie_elements
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--empty year in course_mipth
+Warning--language is not defined: englishpp.
+Warning--language is not defined: englishpp.
+Too many commas in name 1 of "Н. Соловьев, А. Семенов, А. Цыганков, Елена Чернопрудова" for entry solov_intellect
+while executing---line 2795 of file gost780uv.bst
+Too many commas in name 1 of "Н. Соловьев, А. Семенов, А. Цыганков, Елена Чернопрудова" for entry solov_intellect
+while executing---line 2795 of file gost780uv.bst
+Warning--empty year in lecture_ul
+Warning--empty year in course_intuit
+Warning--language is not defined: englishpp.
+Warning--language is not defined: englishpp.
+Warning--language is not defined: englishPp.
+Warning--language is not defined: englishPp.
+Warning--language is not defined: englishpp.
+Warning--language is not defined: englishPp.
+Warning--language is not defined: englishPp.
+Warning--language is not defined: englishPp.
+Warning--language is not defined: englishpp.
+You've used 21 entries,
+            2649 wiz_defined-function locations,
+            770 strings with 8387 characters,
+and the built_in function-call counts, 6638 in all, are:
+= -- 888
+> -- 130
+< -- 19
++ -- 53
+- -- 32
+* -- 368
+:= -- 837
+add.period$ -- 79
+call.type$ -- 21
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 24
+duplicate$ -- 339
+empty$ -- 758
+format.name$ -- 51
+if$ -- 1796
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 0
+newline$ -- 135
+num.names$ -- 38
+pop$ -- 148
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 39
+skip$ -- 134
+stack$ -- 0
+substring$ -- 184
+swap$ -- 108
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 14
+while$ -- 37
+width$ -- 23
+write$ -- 357
+(There were 3 error messages)

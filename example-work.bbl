@@ -1,0 +1,167 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibAuthor\def\BibAuthor#1{\emph{#1}}\else\fi
+\ifx\undefined\BibTitle\def\BibTitle#1{#1}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibSection\def\BibSection#1#2#3{}\else\fi
+
+\bibitem{course_mipth}
+\selectlanguageifdefined{english}
+\BibTitle{Moscow Institute of Physics and Technology Специализация: Машинное
+  обучение и анализ данных. Курс: Обучение на размеченных данных [{Э}лектронный
+  ресурс]}. "---
+\newblock
+  URL:~\url{https://ru.coursera.org/lecture/supervised-learning/rieshaiushchiie-dieriev-ia-HZxD1}
+  (Дата обращения 20.05.2018). Загл. с экр. Яз. рус.
+
+\bibitem{quinlan_c45}
+\selectlanguageifdefined{english}
+\BibAuthor{Quinlan,~J.~R.} \BibTitle{C4.5: Programs for Machine learning}~/
+  J.~R. Quinlan. "---
+\newblock San Mateo: Morgan Kaufmann Publishers, 1993. "---
+\newblock 302~pp.
+
+\bibitem{quinlan_learning}
+\selectlanguageifdefined{english}
+\BibAuthor{Quinlan,~J.~R.} \BibTitle{Learning logical definitions from
+  relations. Machine Learning}~/ J.~R. Quinlan. "---
+\newblock 1990. "---
+\newblock 239-266~pp.
+
+\bibitem{solov_intellect}
+\selectlanguageifdefined{russian}
+\BibAuthor{Н.~Соловьев~А.~Семенов,~А. Ц. Е.~Ч.} \BibTitle{Интеллектуальные
+  системы}~/ А.~Ц. Е.~Ч. Н.~Соловьев, А.~Семенов. "---
+\newblock Оренбург, 2013. "---
+\newblock 236~{\cyr\cyrs.}
+
+\bibitem{lecture_ul}
+\selectlanguageifdefined{english}
+\BibTitle{Лекции Ульяновского государственного университета [{Э}лектронный
+  ресурс]}. "---
+\newblock URL:~\url{https://studfiles.net/preview/6172591/page:10} (Дата
+  обращения 20.05.2018). Загл. с экр. Яз. рус.
+
+\bibitem{course_intuit}
+\selectlanguageifdefined{english}
+\BibAuthor{Чубуков,~И.~Ф.} \BibTitle{Data Mining. Учебный курс [{Э}лектронный
+  ресурс]}~/ И.~Ф. Чубуков. "---
+\newblock URL:~\url{http://www.intuit.ru/department/database/datamining/} (Дата
+  обращения 20.05.2018). Загл. с экр. Яз. рус.
+
+\bibitem{breiman_class}
+\selectlanguageifdefined{english}
+\BibAuthor{Breiman,~L.} \BibTitle{Classification and regression trees}~/
+  L.~Breiman, J.~H. Friedman, C.~J. Olshen, R. A. ands~Stone. "---
+\newblock Belmont, CA: Wadsworth International Group, 1984. "---
+\newblock 354~pp.
+
+\bibitem{senko_course}
+\selectlanguageifdefined{russian}
+\BibAuthor{Сенько,~О.~В.} \BibTitle{Курс «Математические основы теории
+  прогнозирования» Лекция 8 Решающие деревья}~/ О.~В. Сенько. "---
+\newblock МОТП, 2017. "---
+\newblock 15~{\cyr\cyrs.}
+
+\bibitem{sirota_method}
+\selectlanguageifdefined{russian}
+\BibAuthor{Сирота,~А.~А.} \BibTitle{Методы и алгоритмы анализа данных и их
+  моделирование в MATLAB}~/ А.~А. Сирота. "---
+\newblock Петербург: БХВ-Петербург, 2017. "---
+\newblock 384~{\cyr\cyrs.}
+
+\bibitem{sen_16}
+\selectlanguageifdefined{english}
+\BibAuthor{Sen,~A.} \BibTitle{16 diagrams On Economic Inequality}~/ A.~Sen.
+  "---
+\newblock Oxford: Oxford University Press, 1997. "---
+\newblock 280~pp.
+
+\bibitem{shannon_math}
+\selectlanguageifdefined{english}
+\BibAuthor{Shannon,~C.~E.} \BibTitle{A mathematical theory of communication}~/
+  C.~E. Shannon~// \emph{Bell System Technical Journal}. "---
+\newblock 1948. "---
+\newblock Pp.~379--423.
+
+\bibitem{bies_genetic}
+\selectlanguageifdefined{english}
+\BibAuthor{Bies,~R.~R.} \BibTitle{A genetic algorithm-based, hybrid machine
+  learning approach to model selection}~/ R.~R. Bies, M.~F. Muldoon, B.~G.
+  Pollock, S.~Manuck, G.~Smith, M.~E. Sale~// \emph{Journal of Pharmacokinetics
+  and Pharmacodynamics}. "---
+\newblock 2006. "---
+\newblock Pp.~196--221.
+
+\bibitem{berger_statist}
+\selectlanguageifdefined{english}
+\BibAuthor{Berger,~R.~L.} \BibTitle{Statistical Inference}~/ R.~L. Berger,
+  G.~Casella. "---
+\newblock Duxbury Press, 2001. "---
+\newblock 374~pp.
+
+\bibitem{hastie_elements}
+\selectlanguageifdefined{english}
+\BibAuthor{Hastie,~T.} \BibTitle{The elements of statistical learning}~/
+  T.~Hastie, R.~Tibshirani, J.~Friedman~// \emph{Springer}. "---
+\newblock 2001. "---
+\newblock Pp.~269--272.
+
+\bibitem{quinlan_machine}
+\selectlanguageifdefined{english}
+\BibAuthor{Quinlan,~J.~R.} \BibTitle{Machine Learning: an artificial
+  intelligence approach. Learning efficient classification procedures}~/ J.~R.
+  Quinlan. "---
+\newblock Carbonell Mitchell, 1983. "---
+\newblock Pp.~463--482.
+
+\bibitem{quinlan_improved}
+\selectlanguageifdefined{english}
+\BibAuthor{Quinlan,~J.~R.} \BibTitle{Improved use of continuous attributes in
+  c4.5}~/ J.~R. Quinlan~// \emph{Journal of Artificial Intelligence Research}.
+  "---
+\newblock 1996. "---
+\newblock Pp.~77--90.
+
+\bibitem{martin_math}
+\selectlanguageifdefined{english}
+\BibAuthor{Мартин,~Н.} \BibTitle{Математическая теория энтропии}~/ Н.~Мартин,
+  Д.~Ингленд. "---
+\newblock Москва: Мир, 1988. "---
+\newblock 350~pp.
+
+\bibitem{shennon_rabot}
+\selectlanguageifdefined{russian}
+\BibAuthor{Шеннон,~К.} \BibTitle{Работы по теории информации и кибернетике}~/
+  К.~Шеннон. "---
+\newblock Москва, 1963. "---
+\newblock {\cyr\CYRS.}~243--332.
+
+\bibitem{hedli_yasic}
+\selectlanguageifdefined{russian}
+\BibAuthor{Уикем,~Х.} \BibTitle{Язык R в задачах науки о данных: импорт,
+  подготовка, обработка, визуализация и моделирование данных}~/ Х.~Уикем,
+  Г.~Гроулмунд. "---
+\newblock Вильямс, 2017. "---
+\newblock 592~{\cyr\cyrs.}
+
+\bibitem{koelyo_postr}
+\selectlanguageifdefined{russian}
+\BibAuthor{Коэльё,~Л.~П.} \BibTitle{Построение систем машинного обучения на
+  языке Python}~/ Л.~П. Коэльё, В.~Ричерт. "---
+\newblock Москва: ДМК Пресс, 2016. "---
+\newblock 202~{\cyr\cyrs.}
+
+\bibitem{jeron_priclad}
+\selectlanguageifdefined{russian}
+\BibAuthor{Жерон,~О.} \BibTitle{Прикладное машинное обучение с помощью
+  Scikit-Learn и TensorFlow. Концепции, инструменты и техники для создания
+  интеллектуальных систем}~/ О.~Жерон. "---
+\newblock Вильямс, 2018. "---
+\newblock 688~{\cyr\cyrs.}
+
+\end{thebibliography}
